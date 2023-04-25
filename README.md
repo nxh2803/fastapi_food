@@ -1,5 +1,3 @@
-# Recommentdation server
-
 ## Introduction
 ### API ThangLong Food
 #### Python 3.10 :
