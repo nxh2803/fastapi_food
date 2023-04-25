@@ -11,5 +11,4 @@ pip install -r requirements.txt
 
 ## Step 2: Make migration:
 ```
-
 uvicorn app.main:app --reload
