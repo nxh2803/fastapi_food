@@ -9,6 +9,6 @@
 pip install -r requirements.txt
 ```
 
-## Step 2: Make migration:
+## Step 2: Run service:
 ```
 uvicorn app.main:app --reload
